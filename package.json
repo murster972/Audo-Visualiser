@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "main": "index.html",
+	"window": {
+		"title": "Audio Visualizer",
+		"toolbar": false,
+		"resizable": true,
+		"position": "center"
+	    }
+}
